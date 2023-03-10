@@ -1,0 +1,7 @@
+C:\Users\Daria\Desktop\projekt-main\costam\RPG_project\bin\Debug\Costam.exe.config
+C:\Users\Daria\Desktop\projekt-main\costam\RPG_project\bin\Debug\Costam.exe
+C:\Users\Daria\Desktop\projekt-main\costam\RPG_project\obj\Debug\Costam.csproj.AssemblyReference.cache
+C:\Users\Daria\Desktop\projekt-main\costam\RPG_project\obj\Debug\Costam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daria\Desktop\projekt-main\costam\RPG_project\obj\Debug\Costam.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Desktop\projekt-main\costam\RPG_project\obj\Debug\Costam.exe
+C:\Users\Daria\Desktop\projekt-main\costam\RPG_project\obj\Debug\Costam.pdb
